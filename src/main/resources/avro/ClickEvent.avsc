@@ -1,0 +1,13 @@
+{"namespace": "samples.clickstream.avro",
+  "type": "record",
+  "name": "demo_transactions",
+  "fields": [
+    {"name": "Account_Id", "type": "string"},
+    {"name": "Customer_Name",  "type": "long"},
+    {"name": "Merchant_Type",  "type": "string"},
+    {"name": "Transaction_Id",  "type": ["string", "null"]},
+    {"name": "Transaction_Type",  "type": ["string", "null"]},
+    {"name": "Transaction_Amount",  "type": "int"},
+    {"name": "Transaction_Date",  "type": "string"}
+  ]
+}

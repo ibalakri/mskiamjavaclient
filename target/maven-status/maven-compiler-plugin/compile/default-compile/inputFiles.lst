@@ -1,0 +1,9 @@
+/home/ec2-user/environment/clickstream-producer-for-apache-kafka/src/main/java/com/amazonaws/kafka/samples/KafkaProducerFactory.java
+/home/ec2-user/environment/clickstream-producer-for-apache-kafka/src/main/java/com/amazonaws/kafka/samples/Events.java
+/home/ec2-user/environment/clickstream-producer-for-apache-kafka/src/main/java/com/amazonaws/kafka/samples/GetStatus.java
+/home/ec2-user/environment/clickstream-producer-for-apache-kafka/src/main/java/com/amazonaws/kafka/samples/ParametersValidator.java
+/home/ec2-user/environment/clickstream-producer-for-apache-kafka/src/main/java/samples/clickstream/avro/demo_transactions.java
+/home/ec2-user/environment/clickstream-producer-for-apache-kafka/src/main/java/com/amazonaws/kafka/samples/RunProducer.java
+/home/ec2-user/environment/clickstream-producer-for-apache-kafka/src/main/java/com/amazonaws/kafka/samples/KafkaClickstreamClient.java
+/home/ec2-user/environment/clickstream-producer-for-apache-kafka/src/main/java/samples/clickstream/avro/ClickEvent.java
+/home/ec2-user/environment/clickstream-producer-for-apache-kafka/src/main/java/com/amazonaws/kafka/samples/Util.java

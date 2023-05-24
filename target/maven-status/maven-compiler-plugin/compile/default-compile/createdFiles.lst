@@ -1,0 +1,13 @@
+com/amazonaws/kafka/samples/ParametersValidator.class
+com/amazonaws/kafka/samples/KafkaClickstreamClient.class
+samples/clickstream/avro/demo_transactions$1.class
+samples/clickstream/avro/ClickEvent.class
+com/amazonaws/kafka/samples/RunProducer.class
+samples/clickstream/avro/ClickEvent$Builder.class
+samples/clickstream/avro/demo_transactions.class
+com/amazonaws/kafka/samples/Events.class
+samples/clickstream/avro/ClickEvent$1.class
+com/amazonaws/kafka/samples/GetStatus.class
+com/amazonaws/kafka/samples/Util.class
+samples/clickstream/avro/demo_transactions$Builder.class
+com/amazonaws/kafka/samples/KafkaProducerFactory.class
